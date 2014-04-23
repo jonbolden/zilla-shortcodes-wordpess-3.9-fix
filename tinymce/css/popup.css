@@ -179,3 +179,7 @@
 
 /* Hide outline on focus */
 #content_zilla_button { outline: none; }
+
+/* Fix icon in Wordpress 3.9 */
+
+.mce-i-zilla_button{background-image:url(../images/icon.png)!important; background-repeat:no-repeat; background-color:transparent; background-position:center center}
